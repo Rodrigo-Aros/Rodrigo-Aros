@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Rodrigo- Aros
-- 👀 I’m interested in  R y python  lenguajes ligados al area GIS
-- 🌱 I’m currently learningds constantemente
+- 👋 Soy Rodrigo Aros. Geógrafo Universidad de Concepción
+- 👀 Mis intereses son  R, Python, GIS y el Analisís de Datos
+- 🌱 He aprendido de forma autodidacta y perfeccionado en @CienciaDeDatosEcuador
 
 
-- 💞️ I’m looking to collaborate on  el area espacial.
-- 📫 How to reach me  rodrigoarbust@gmail.com
+- 💞️ Me gusta aprender y enseñar de tecnologías geográficas y no Geograficas
+- 📫 Cualquier duda/consulta y/o recomendación a rodrigoarbust@gmail.com / rodaros@udec.cl
 
 <!---
 Rodrigo-Aros/Rodrigo-Aros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
