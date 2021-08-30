@@ -1,9 +1,9 @@
 - 👋 Soy Rodrigo Aros. Geógrafo Universidad de Concepción
-- 👀 Mis intereses son  R, Python, GIS y el Analisís de Datos
+- 👀 Mis intereses son  R, Python, GIS y el Análisis de Datos
 - 🌱 He aprendido de forma autodidacta y perfeccionado en @CienciaDeDatosEcuador
 
 
-- 💞️ Me gusta aprender y enseñar de tecnologías geográficas y no Geograficas
+- 💞️ Me gusta aprender y enseñar de tecnologías geográficas y no geográficas
 - 📫 Cualquier duda/consulta y/o recomendación a rodrigoarbust@gmail.com / rodaros@udec.cl
 
 <!---
